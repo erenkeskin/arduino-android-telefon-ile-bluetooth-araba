@@ -20,7 +20,7 @@
 #define solFar             13     // Sag Arka Far
 #define buzzer             7      // Korna
 
-/* Global Değişkenler */
+/* Global Değişkenler */ 
 int hiz = 0;
 char karakter;
 
